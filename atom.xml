@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-08-15T12:57:21.253Z</updated>
+  <updated>2019-08-15T13:00:05.309Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2019/07/26/001/"/>
     <id>http://yoursite.com/2019/07/26/001/</id>
     <published>2019-07-26T12:32:56.000Z</published>
-    <updated>2019-08-15T12:57:21.253Z</updated>
+    <updated>2019-08-15T13:00:05.309Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class="owl-media owl-video owl-youku"><iframe src="http://player.youku.com/embed/XNDAyNjcwNDg0MA==?client_id=5a73c0df8eb0d91d" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><iframe src="//player.bilibili.com/player.html?aid=19448254&cid=31715906&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><iframe src="//player.bilibili.com/player.html?aid=41420846&cid=72746709&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
     
     <summary type="html">
     
