@@ -1,11 +1,10 @@
 ﻿{
-	"version": 1585052285,
+	"version": 1591685700,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
 		"jquery-3.4.1.min.js",
 		"offlineClient.js",
-		"c2webappstart.js",
 		"images/map03-sheet0.png",
 		"images/person01-sheet0.png",
 		"images/person01-sheet1.png",
@@ -86,6 +85,8 @@
 		"images/person08-sheet0.png",
 		"images/person08-sheet1.png",
 		"images/person08-sheet2.png",
+		"images/sprite09-sheet0.png",
+		"images/sprite09-sheet1.png",
 		"media/09.ogg",
 		"media/02.ogg",
 		"media/07.ogg",
